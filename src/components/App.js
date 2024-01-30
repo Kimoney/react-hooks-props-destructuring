@@ -11,7 +11,7 @@ function App() {
     <div className="App">
       <MovieCard title={title} genres={genresArr} />
     </div>
-  );
+  )
 }
 
 export default App;
